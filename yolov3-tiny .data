@@ -1,0 +1,6 @@
+classes= 22
+train  = /mydrive/trainStuff/tiny/train.txt
+valid  = /mydrive/2007_test.txt
+names = /mydrive/trainStuff/tiny/voc.names
+backup = /mydrive/backup/
+
